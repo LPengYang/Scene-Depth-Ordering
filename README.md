@@ -9,7 +9,7 @@ In this paper, we propose a novel single image dehazing framework guided by dept
 
 ## Demo
 
-We have provided two version of demos, i,e., the concise verison (demo_concise.mlx) that only returns dehazing results for input hazy images, and the detailed verison (demo_detailed.mlx) that outputs all intermidiate results with visualization. 
+We have provided two version of demos, i,e., the concise verison (**Main_concise.mlx**) that only returns dehazing results for input hazy images, and the detailed verison (**Main_demo.mlx**) that outputs all intermidiate results with visualization. 
 
 ## Demonstration of Extracted Depth Order and Global Optimization
 
