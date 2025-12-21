@@ -1,5 +1,6 @@
 # Scene-Depth-Ordering
-Single Image Dehazing Using Scene Depth Ordering
+Single Image Dehazing Using Scene Depth Ordering. The revised version is published on [IEEE TITS](https://ieeexplore.ieee.org/document/11306239).
+
 
 <hr />
 
@@ -9,12 +10,28 @@ In this paper, we propose a novel efficient image dehazing framework guided by d
 
 ## Demo
 
-We have provided two version of demos, i,e., the concise verison (**Main_concise.mlx**) that only returns dehazing results for input hazy images, and the detailed verison (**Main_demo.mlx**) that outputs all intermidiate results with visualization. 
+We have provided two versions of demos, i,e., the concise version (**Main_concise.mlx**) that only returns dehazing results for input hazy images, and the detailed version (**Main_demo.mlx**) that outputs all intermediate results with visualization. 
 
 ## Demonstration of Extracted Depth Order and Global Optimization
 
 ![image](https://github.com/LPengYang/Scene-Depth-Ordering/blob/main/Demonstration_figures/Observation.png) 
 
 ![image](https://github.com/LPengYang/Scene-Depth-Ordering/blob/main/Demonstration_figures/Global_optimization.png) 
+
+## Citation
+If you use our work, please consider citing:
+
+    @ARTICLE{11306239,
+      author={Ling, Pengyang and Chen, Huaian and Wang, Haoxuan and Gu, Yuxuan and Jin, Yi and Zheng, Jinjin and Chen, Enhong},
+      journal={IEEE Transactions on Intelligent Transportation Systems}, 
+      title={Efficient Haze Removal via Scene Depth Ordering for Robust Traffic Monitoring}, 
+      year={2025},
+      volume={},
+      number={},
+      pages={1-14},
+      keywords={Image color analysis;Atmospheric modeling;Estimation;Image dehazing;Degradation;Monitoring;Scattering;Feature 
+      extraction;Computational modeling;Computational complexity;Image dehazing;atmospheric scattering model;transmission estimation;visibility 
+      improvement},
+      doi={10.1109/TITS.2025.3642629}}
 
 
